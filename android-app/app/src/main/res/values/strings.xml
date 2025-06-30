@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Saudi Plate Detector</string>
+    <string name="plate_preview">License Plate Preview</string>
+    <string name="scan_button">Scan Plate</string>
+    <string name="success_message">Saved in the system</string>
+    <string name="error_no_plate">No plate detected</string>
+    <string name="error_camera_permission">Camera permission is required</string>
+    <string name="error_network">Network error occurred</string>
+    <string name="error_server">Server error occurred</string>
+    <string name="error_not_found">Record not found</string>
+    <string name="please_wait">Processing...</string>
+</resources>
